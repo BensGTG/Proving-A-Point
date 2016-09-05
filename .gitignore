@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ollie Bike Sharing</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+<h1>Making a website</h1>
+<h3> Boring Things </h3>
+<p> This website is to prove to jack (my brother) and my dad that i am good at coding </p>
+<p>You know whos cool? Kanye West</p>
+<a href="https://www.kanyewest.com/"> Here is a link to kanye west's website</a><video width="320" height="240" controls>
+  <source src="https://www.youtube.com/watch?v=du-Ejcx2xx8">
+</video>
+  <div class="nav">
+     <h2> Things I like </h2>
+  <ul>
+    <li>Video Games</li>
+    <li>Bacon</li>
+    <li>Music</li>
+  </ul>
+  <h2>MEMES</h2>
+  </div>  
+  
+</body>
+</html>
